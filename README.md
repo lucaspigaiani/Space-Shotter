@@ -1,5 +1,4 @@
 ## Singleton, Observer, Factory Method
-Description:
 This project focuses on foundational design patterns essential for managing global resources, handling events, and creating families of related objects.
 
 ### Singleton Pattern
